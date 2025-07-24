@@ -7,7 +7,7 @@ This project replicates the design of Spotify's web interface, including sidebar
 
 ## Live Demo
 
-Developed with passion by [Rachit Patel](https://github.com/rachit5105)
+🌐 Experience the project live: [https://rachit5105.github.io/Spotify-Clone/](https://rachit5105.github.io/Spotify-Clone/)
 
 ---
 
