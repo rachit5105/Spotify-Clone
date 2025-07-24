@@ -5,13 +5,13 @@ This project replicates the design of Spotify's web interface, including sidebar
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 [Click here to view the live project](https://rachit5105.github.io/Spotify-Clone/)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Spotify-Clone/
@@ -24,7 +24,7 @@ Spotify-Clone/
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive and clean layout  
 - Spotify-inspired design  
@@ -33,14 +33,14 @@ Spotify-Clone/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – For webpage structure  
 - **CSS3** – For layout and styling (using Flexbox, custom fonts, colors)
 
 ---
 
-## 📌 How to Use
+## How to Use
 
 ```bash
 # Clone the repository
@@ -54,13 +54,13 @@ cd Spotify-Clone
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ![UI Screenshot](./assets/Screenshot.png)
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Made with ❤️ by **Rachit Patel**  
 - [GitHub Profile](https://github.com/rachit5105)  
